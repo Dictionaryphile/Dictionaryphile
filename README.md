@@ -1,32 +1,32 @@
-- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞- - [☞# Dictionaryphile
+# Dictionaryphile
 自我介绍&全部文章
 
 本文最后更新：2018年1月22日
 
-##历史文章
+## 历史文章
 ► 打开浏览器，输入 ducidian.com 即可进入本微信号的知识库。
 ► 也可以访问简书，搜索“词典”，名字叫 Dictionaryphile 的就是我 https://www.jianshu.com/u/d8184abb9230 因为我写文用 Markdown ，折腾来折腾去，发现简书还不错，所以整理了一些合集在那里放着。
 
-##本微信订阅号介绍
+## 本微信订阅号介绍
 - 目前这是“一个”“人”维护的公众号
 - 每篇文章，基本都有摘录自权威词典的内容，主要是英汉词典的例句，记单词不如记句子啊
 - 其实主要是发些笔记类型的东西，寻章摘句，自娱自乐，如果能带给大家一些有益的东西，那就更好了，独学而无友
 - 已经开通留言功能，大家有什么需求、问题、感想，可以直接留言或发消息
 - 感谢大家的支持。
 
-##运营记录
+## 运营记录
 - 2016 年 12 月 14 日，开通这个“公众订阅号”，微信 ID “ducidian”（“读词典”拼音），公众号名字借用了“GoldenDict”，头像借用了 Merriam-Webster 。
 - 2017 年 01 月 19 日，收到公众平台“原创保护功能”邀请，申请通过审核，这意味着，我可以给自己的文章加上“原创”标记了；
 - 2017 年 01 月 24 日，收到公众平台“赞赏功能”邀请，申请通过审核，这意味着，只要我愿意，可以在原创文章末尾加上“赞赏”，只要用户愿意，可以给我打钱，我向大家保证，我肯定会使用“赞赏”功能的，至于会在什么时机什么样的文章下使用，请。。。先不要取关，持续关注即可。
 - 2017 年 01 月 30 日，开始每天列一本我想读 OR 读过的书。
 - 2018 年 01 月 22 日，更名为 Dictionaryphile ：- [☞ [2018-01-22] 本公众号更名、更换头像说明 ](http://mp.weixin.qq.com/s/4xECAArJohaN1Hgl33SfFg)
 
-##我在用什么词典工具
+## 我在用什么词典工具
 - **GoldenDict** on Windows 10 / macOS / Linux
 - **MDict** on Windows 10 / iOS / Android
 - 其他
 
-##我最常用什么词典
+## 我最常用什么词典
 2018-01
 - 新世纪英汉大词典
 - 牛津高阶英汉双解词典（第 8 版）
@@ -38,11 +38,11 @@
 
 ---
 
-##显摆
+## 显摆
 - [☞ [2017-05-28] 集齐了8个版本的牛津高阶英汉双解词典 ](http://mp.weixin.qq.com/s/M8mwfCKP9uJS2s7kDvSk3g)
 - [☞ [2017-06-05] 集齐 5 个版本《朗文当代高级英语辞典》（英英·英汉双解） ](http://mp.weixin.qq.com/s/AYymbUhAg18zm1oeLqXURg)
 
-##杂谈
+## 杂谈
 - [☞ [2017-02-17] 你还在用纸质词典吗？ ](http://mp.weixin.qq.com/s/Eza9QTE86-CiF0rC9VllAA)
 - [☞ [2017-05-08] 我眼中的十二大英英母语型词典 ](http://mp.weixin.qq.com/s/pS6nNq3T2LY_HllcseyrQA)
 - [☞ [2017-11-03] 英语学习型词典与武林门派的对应关系 ](https://mp.weixin.qq.com/s/tT1n_m_xIiZriVlT-wP_Sg)
@@ -65,8 +65,8 @@
 
 
 
-#品词典
-##牛津高阶英汉双解词典
+# 品词典
+## 牛津高阶英汉双解词典
 - [☞ [2018-01-15] 差[一]点儿[没]@牛津高阶英汉双解词典（第 8 版） ](http://mp.weixin.qq.com/s/UVmJE0QUGGJffKQ5IG8T6A)
 - [☞ [2018-01-13] training 条一例句汉译简繁之别@牛津高阶 ](http://mp.weixin.qq.com/s/K0u7-4BYpOHrB45xE63x6w)
 - [☞ [2018-01-09] 艾丽丝 OR 艾丽斯 in Wonderland @牛津高阶 ](http://mp.weixin.qq.com/s/ZJm71ECjKsEKmgM_e8quJA)
@@ -126,7 +126,7 @@
 - [☞ [2017-06-01] 《牛津高阶英汉双解词典》第 6、7、8 版编译者 ](http://mp.weixin.qq.com/s/qHUInyn2ZV7dPLFUlIm61A)
 - [☞ [2017-05-22] 语言@牛津高阶英汉双解词典（第 8 版） ](http://mp.weixin.qq.com/s/387oVdA1QQMsw8CIifJrig)
 
-##朗文当代高级英语辞典（英英·英汉双解）
+## 朗文当代高级英语辞典（英英·英汉双解）
 - [☞ [2017-01-17] 原来你是这样的朗文词典 ](http://mp.weixin.qq.com/s/QReG-oGGqaMyTNuLnL-sGA)
 - [☞ [2017-02-28] 典评：朗文当代高级英语辞典（英英·英汉双解）（第5版）[1] ](http://mp.weixin.qq.com/s/I9ZK1kWJoOK02H3kTj4zfA)
 - [☞ [2017-03-03] 真实（最小）收词量@朗文当代高级英语辞典（英英·英汉双解）（第5版） ](https://mp.weixin.qq.com/s/xbUoio9FHKRFnsLFnKbFzw)
@@ -156,7 +156,7 @@
 - [☞ [2017-03-06] 有道、海笛朗文五双解的 3 个奇葩错误 ](http://mp.weixin.qq.com/s/fSwFGe8GAlV5wWFifX1ILA)
 
 
-##韦氏高阶英汉双解词典
+## 韦氏高阶英汉双解词典
 - [☞ [2018-01-03] 韦氏也不能放过 ](https://mp.weixin.qq.com/s/K1OvRhu163gP_V9mkG2bdQ)
 - [☞ [2018-01-05] 《韦氏高阶》译者与莎士比亚：不得不提的事 ](http://mp.weixin.qq.com/s/SYCGbRFQxx1P8uIzaz_lVQ)
 - [☞ [2017-12-24] 出了名地@韦氏高阶英汉双解词典 ](http://mp.weixin.qq.com/s/TwPJrKjnBHc0VdDSBr-feQ)
@@ -176,7 +176,7 @@
 - [☞ [2017-10-16] 真·瑕疵？@韦氏高阶英汉双解词典 ](http://mp.weixin.qq.com/s/NuiT6ZW8jBg7fiNMsxK7-A)
 - [☞ [2017-10-15] obscure titles@韦氏高阶英汉双解词典 ](http://mp.weixin.qq.com/s/NmGbGxNtH0m12zcq6wGasA)
 
-##柯林斯 COBUILD 高阶英汉双解学习词典
+## 柯林斯 COBUILD 高阶英汉双解学习词典
 - [☞ [2018-01-04] 柯林斯，说你呢 ](http://mp.weixin.qq.com/s/LfrmMPkNUv_8k83w5bXKwQ)
 - [☞ [2018-01-19] bunch 条一例句错译？ ](http://mp.weixin.qq.com/s/JjzVwfN5J6QjVCkYTxfYQQ)
 - [☞ [2017-12-19] insolence 的一个例句翻译@柯林斯 ](http://mp.weixin.qq.com/s/MLZONGgH0q5ko14P62O8Ew)
@@ -197,7 +197,7 @@
 - [☞ [2017-02-25] 词根词缀专栏[51-100]@柯林斯COBUILD高阶英汉双解学习词典（第8版）](http://mp.weixin.qq.com/s/VzjR4fgJawGTi-Qm12pXhg)
 - [☞ [2017-02-24] 词根词缀专栏[1-50]@柯林斯COBUILD高阶英汉双解学习词典（第8版）](http://mp.weixin.qq.com/s/yeA3mqTNWgfeaGrak8NW6Q)
 
-##新世纪英汉大词典
+## 新世纪英汉大词典
 - [☞ [2018-01-21] culture shock 条对比@ Pleco 版与 app ](http://mp.weixin.qq.com/s/Vpcmx2qsbiPJPbCeTD7ruQ)
 - [☞ [2017-12-30] 脑残@朗文 & 新世纪 ](https://mp.weixin.qq.com/s/jrDnSDw6MmnIAjr4AZctiQ)
 - [☞ [2017-12-29] 铸剑为犁 ](http://mp.weixin.qq.com/s/vJ6GWduRdZdKvfNXCnuspA)
@@ -222,13 +222,13 @@
 - [☞ [2017-01-14]《新世纪英汉大词典》又一个疑似问题条目 ](http://mp.weixin.qq.com/s/c9Kv3VbamJ_iCdY5nWXWRA)
 - [☞ [2017-01-12] mystery 条《新世纪英汉大词典》的一个错译 ](http://mp.weixin.qq.com/s/vOIvfC_CvBH40vKwffTxxQ)
 
-##英汉大词典
+## 英汉大词典
 - [☞ [2017-10-31] 英汉大词典参考 WBD 几例 ](http://mp.weixin.qq.com/s/vE6qMkky0qkINJyXT7ziCg)
 - [☞ [2016-12-25] 典评：英汉大词典[1] ](https://mp.weixin.qq.com/s/9oEzzd1y0k4CNSIspqUTvg)
 - [☞ [2017-07-25] intelligence @英汉大词典（第 2 版） ](http://mp.weixin.qq.com/s/eYbCjvuwn-Yranr7BpFfEg)
 - [☞ [2017-07-19] the the @英汉大词典（第 2 版） ](http://mp.weixin.qq.com/s/DX7Rp9Lq3He7SEFHGiB-7Q)
 
-##汉语词典
+## 汉语词典
 - [☞ [2018-01-17] 《现代汉语词典》“蓝牙”条目的改动 ](https://mp.weixin.qq.com/s/LpfanNTiAqSMhUeVahye7A)
 - [☞ [2016-12-16] [文字版]《现代汉语词典》（第 7 版）增、改前 10 条 ](https://mp.weixin.qq.com/s/KHZPQgxzzTC2nIHGLHx1Dg)
 - [☞ [2017-03-31] 《现代汉语规范词典》 vs 《现代汉语词典》](http://mp.weixin.qq.com/s/NIYwbQeB1u7jp7vK-aal5Q)
@@ -241,7 +241,7 @@
 - [☞ [2017-08-01] “冕”配图错误？@现代汉语词典（第 6/7 版） ](http://mp.weixin.qq.com/s/zazEycA6zl9ZFMHCTfhgqA)
 - [☞ [2017-07-31] 新华字典 app 的一处瑕疵 ](http://mp.weixin.qq.com/s/R2QWEdK3ebDG0QMZkoP-dA)
 
-##汉英词典
+## 汉英词典
 - [☞ [2017-12-12] 宅男@新世纪汉英大词典（第二版） etc. ](http://mp.weixin.qq.com/s/V5p_HpH2oKnUlahLwyJ9Ug)
 - [☞ [2017-12-10] 新世纪汉英大词典 OR 辞典？@搜狗词典 app ](http://mp.weixin.qq.com/s/ieIQ6lgcp6mzKAStm8uV6g)
 - [☞ [2016-12-23] 三分钟怼个《中华汉英大词典》（上） mdx [仅 1 词条] ](https://mp.weixin.qq.com/s/1v6keF0Nr7tgadM1C69sGg)
@@ -250,20 +250,20 @@
 
 
 
-##GoldenDict
+## GoldenDict
 - [☞ [2017-01-15] 不用 GoldenDict 的 10 个理由 ](http://mp.weixin.qq.com/s/HzZZhyyHMb0DpQ4AYOLzlA)
 - [☞ [2017-11-29] refuse 与 refute 兼谈通配符@GoldenDict ](http://mp.weixin.qq.com/s/mQicKXbBZppF1RmACitStQ)
 - [☞ [2017-01-21] GoldenDict 全文搜索几例 ](http://mp.weixin.qq.com/s/gHMJrVG_bmGw142fEEtNeQ)
 
 
-##日常吐槽
+## 日常吐槽
 - [☞ [2018-01-07] PG One 是什么意思？ ](http://mp.weixin.qq.com/s/blGKwurrIfxyXBhpe4My_A)
 - [☞ [2018-01-06] 有道词典的不专业性 ](http://mp.weixin.qq.com/s/mh9ev1BtNnMfPx7h4tqyoA)
 - [☞ [2017-12-03] “馄钝”是什么鬼？ ](https://mp.weixin.qq.com/s/WTBG3Dr6UTBQqC27Ki0zKw)
 - [☞ [2017-08-19] 中国数字植物标本馆？ ](http://mp.weixin.qq.com/s/4hDedXgld19CpIME4m5Prw)
 - [☞ [2017-09-27] 亲情打造？@纯洁心灵·逐梦演艺圈 ](http://mp.weixin.qq.com/s/bAeJpWpMKDLn10JopmHD0g)
 
-##未分类
+## 未分类
 - [☞ [2018-01-22] 本公众号更名、更换头像说明 ](http://mp.weixin.qq.com/s/4xECAArJohaN1Hgl33SfFg)
 - [☞ [2018-01-12] 发音器官 ](http://mp.weixin.qq.com/s/-wUKCv_O68jF71L337y7WQ)
 - [☞ [2018-01-08] 看对眼与 see eye to eye ](http://mp.weixin.qq.com/s/SCl9ZpdfF1uMilIvXd6QbQ)
