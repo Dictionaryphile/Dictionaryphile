@@ -3,21 +3,22 @@
 
 ## 历史文章
 ► 打开浏览器，输入 ducidian.com 即可进入本微信号的知识库。  
-► 也可以访问简书，搜索“词典”，名字叫 Dictionaryphile 的就是我 https://www.jianshu.com/u/d8184abb9230 因为我写文用 Markdown ，折腾来折腾去，发现简书还不错，所以整理了一些合集在那里放着。  
+► 也可以访问简书，搜索“词典”，名字叫 Dictionaryphile 的就是我。因为我写文用 Markdown ，折腾来折腾去，发现简书还不错，所以整理了一些合集在那里放着。  
+► GitHub、微博、豆瓣等也叫 Dictionaryphile。
 
 ## 本微信订阅号介绍
-- 目前这是“一个”“人”维护的公众号
-- 每篇文章，基本都有摘录自权威词典的内容，主要是英汉词典的例句，记单词不如记句子啊
-- 其实主要是发些笔记类型的东西，寻章摘句，自娱自乐，如果能带给大家一些有益的东西，那就更好了，独学而无友
-- 已经开通留言功能，大家有什么需求、问题、感想，可以直接留言或发消息
-- 感谢大家的支持。
+- 目前这是“一个”“人”维护的公众号  
+- 每篇文章，基本都有摘录自权威词典的内容，主要是英汉词典的例句，记单词不如记句子啊  
+- 其实主要是发些笔记类型的东西，寻章摘句，自娱自乐，如果能带给大家一些有益的东西，那就更好了，独学而无友  
+- 已经开通留言功能，大家有什么需求、问题、感想，可以直接留言或发消息  
+- 感谢大家的支持和关注！  
 
 ## 运营记录
-- 2016 年 12 月 14 日，开通这个“公众订阅号”，微信 ID “ducidian”（“读词典”拼音），公众号名字借用了“GoldenDict”，头像借用了 Merriam-Webster 。
-- 2017 年 01 月 19 日，收到公众平台“原创保护功能”邀请，申请通过审核，这意味着，我可以给自己的文章加上“原创”标记了；
-- 2017 年 01 月 24 日，收到公众平台“赞赏功能”邀请，申请通过审核，这意味着，只要我愿意，可以在原创文章末尾加上“赞赏”，只要用户愿意，可以给我打钱，我向大家保证，我肯定会使用“赞赏”功能的，至于会在什么时机什么样的文章下使用，请。。。先不要取关，持续关注即可。
+- 2018 年 01 月 22 日，更名为[Dictionaryphile](http://mp.weixin.qq.com/s/4xECAArJohaN1Hgl33SfFg) 。 
 - 2017 年 01 月 30 日，开始每天列一本我想读 OR 读过的书。
-- 2018 年 01 月 22 日，更名为 Dictionaryphile ： [☞ [2018-01-22] 本公众号更名、更换头像说明 ](http://mp.weixin.qq.com/s/4xECAArJohaN1Hgl33SfFg)
+- 2017 年 01 月 24 日，收到公众平台“赞赏功能”邀请，申请通过审核，这意味着，只要我愿意，可以在原创文章末尾加上“赞赏”，只要用户愿意，可以给我打钱，我向大家保证，我肯定会使用“赞赏”功能的，至于会在什么时机什么样的文章下使用，请。。。先不要取关，持续关注即可。
+- 2017 年 01 月 19 日，收到公众平台“原创保护功能”邀请，申请通过审核，这意味着，我可以给自己的文章加上“原创”标记了；
+- 2016 年 12 月 14 日，开通这个“公众订阅号”，微信 ID “ducidian”（“读词典”拼音），公众号名字借用了“GoldenDict”，头像借用了 Merriam-Webster 。
 
 ## 我在用什么词典工具
 - **GoldenDict** on Windows 10 / macOS / Linux
@@ -25,22 +26,29 @@
 - 其他
 
 ## 我最常用什么词典
-2018-01  
+2018-02
 - 新世纪英汉大词典
 - 牛津高阶英汉双解词典（第 8 版）
 - 朗文当代高级英语辞典（英英·英汉双解）（第 5 版）
 - 英汉大词典（第 2 版）
 - World Book Dictionary
 
+## 一些金玉良言
+- 使用才是真正的占有。
 - 查词典既是找答案，也是找问题。
-
----
-
+- 查词典可以解决绝大部分语言方面的问题。
+- 一本牛津高阶，顶一百个英语名师。
+- 老师就是比你先查了词典而已。
+- 知识越多的人，查词典越多。
+- 不查词典，不学习的人，是可耻的。
+- 其实不管学什么，最终都是把自己变成一本相关领域的活词典，仅此而已。
+- 一切问题，都是语言和逻辑的问题，当然，还可能是，钱的问题。
+- Once you’ve read the dictionary, every other book is just a remix.
 
 ## 显摆  
 [☞ [2017-05-28] 集齐 8 个版本的《牛津高阶英汉双解词典》 ](http://mp.weixin.qq.com/s/M8mwfCKP9uJS2s7kDvSk3g)  
 [☞ [2017-06-05] 集齐 5 个版本《朗文当代高级英语辞典》（英英·英汉双解） ](http://mp.weixin.qq.com/s/AYymbUhAg18zm1oeLqXURg)  
-
+[☞ [2018-01-29] 宇宙最全在线词典网站导航@GitHub ](https://mp.weixin.qq.com/s/Kujq9SQoT2X6nP0IN4zZ8A)  
 
 
 ## 杂谈  
@@ -49,21 +57,21 @@
 [☞ [2017-11-03] 英语学习型词典与武林门派的对应关系 ](https://mp.weixin.qq.com/s/tT1n_m_xIiZriVlT-wP_Sg)  
 [☞ [2017-01-30] 英语学习型词典 vs 母语型词典 ](http://mp.weixin.qq.com/s/J6Vz-WgyTgTpOPnKFu7GpA)  
 [☞ [2017-05-03] 只留一本英语学习型词典，选哪本？ ](http://mp.weixin.qq.com/s/ueRtCrrWN591lI2KviWYfQ)  
+[☞ [2018-02-04] 学习型 OR 学习者词典 ](http://mp.weixin.qq.com/s/EotvozsgC_XYQ6oy7jBCAg)  
+[☞ [2017-01-03] 美语学习型词典都有哪些？ ](http://mp.weixin.qq.com/s/cSiJRYhDAaFLz2YfKqK0iQ)  
 [☞ [2017-05-07] 汉英词典哪家强？ ](http://mp.weixin.qq.com/s/e1y0lotRz11iGj6AxQT_5Q)  
 [☞ [2017-10-12] 有词典为什么还要记单词？ ](http://mp.weixin.qq.com/s/zwtUo-F9jv597TGv-KN8MQ)  
 [☞ [2017-10-01] 给词典找茬，有什么收获？ ](http://mp.weixin.qq.com/s/NfWesaguYGSlbBTaEU76YA)  
 [☞ [2017-11-15] 说说英语搭配词典 ](http://mp.weixin.qq.com/s/X9KJiBqz3V6ehryON7m9Aw)  
-[☞ [2017-01-01] 典评：柯林斯COBUILD高级英汉双解词典 PK 柯林斯COBUILD高阶英汉双解学习词典  ](http://mp.weixin.qq.com/s/uic8pILJ5t_ZU1JDGIw0hQ)  
+[☞ [2017-01-01] 典评：柯林斯 COBUILD 高级英汉双解词典 PK 柯林斯 COBUILD 高阶英汉双解学习词典  ](http://mp.weixin.qq.com/s/uic8pILJ5t_ZU1JDGIw0hQ)  
 [☞ [2017-05-14] 综合型英汉（双解）词典的字数 ](http://mp.weixin.qq.com/s/UroJT77aF5WbCecq-VmdyQ)  
 [☞ [2017-01-22] 有多少书要看？有多少书能看？](http://mp.weixin.qq.com/s/_rHESgJurm8pl9merhEmzA)  
 [☞ [2017-01-20] 关于提高英语词汇量的一些小思考 ](http://mp.weixin.qq.com/s/Yp_fmZ3pihJlsAAViVZOjg)  
-[☞ [2017-01-03] 美语学习型词典都有哪些？ ](http://mp.weixin.qq.com/s/cSiJRYhDAaFLz2YfKqK0iQ)  
 [☞ [2016-12-19] 你挺牛津还是朗文？](https://mp.weixin.qq.com/s/0pF8Uswh9xCXTJq_BKTDzg)  
 [☞ [2017-02-19] 兰登书屋词典初探 ](http://mp.weixin.qq.com/s/4YkShnSOWvaBQjMPvXVM-w)  
 [☞ [2017-02-23] 韦氏高阶和COBUILD8双解二选一选哪本？ ](http://mp.weixin.qq.com/s/e1KkB-KipvRoNDdy4ahzQA)  
 [☞ [2018-01-11] 语音、词汇、语法哪个更重要？ ](http://mp.weixin.qq.com/s/qQzRQHlnnnMd3qG8oNfMEg)  
 [☞ [2018-01-18] 什么叫“足本”词典？ ](https://mp.weixin.qq.com/s/LPZHW3v1L-O-jr9iqi6lEw)  
-
 
 
 ## 牛津高阶英汉双解词典  
@@ -128,8 +136,11 @@
 [☞ [2017-05-22] 语言@牛津高阶英汉双解词典（第 8 版） ](http://mp.weixin.qq.com/s/387oVdA1QQMsw8CIifJrig)  
 
 
-
 ## 朗文当代高级英语辞典（英英·英汉双解）  
+[☞ [2018-02-05] 朗文当代和朗文高阶的区别 ](https://mp.weixin.qq.com/s/Vq3OyGf8WubZB86mbvaKfQ)  
+[☞ [2018-02-01] 朗文简体双解 app 里的一个纸版没有的繁（异）体字 ](http://mp.weixin.qq.com/s/TXaFVWnHOpd7QCPgrnLFWw)  
+[☞ [2018-01-31] 牛津VS朗文::品味VS品位 ](http://mp.weixin.qq.com/s/2Y2Go5a8nraGPZeBftIZXA)  
+[☞ [2018-01-30] 蛤蛤蛤，朗文 wave 条的一个绝对错译 ](http://mp.weixin.qq.com/s/fqtvSmQt_oNieILjtlGGGg)  
 [☞ [2017-01-17] 原来你是这样的朗文词典 ](http://mp.weixin.qq.com/s/QReG-oGGqaMyTNuLnL-sGA)  
 [☞ [2017-02-28] 典评：朗文当代高级英语辞典（英英·英汉双解）（第5版）[1] ](http://mp.weixin.qq.com/s/I9ZK1kWJoOK02H3kTj4zfA)  
 [☞ [2017-03-03] 真实（最小）收词量@朗文当代高级英语辞典（英英·英汉双解）（第5版） ](https://mp.weixin.qq.com/s/xbUoio9FHKRFnsLFnKbFzw)  
@@ -157,8 +168,7 @@
 [☞ [2017-06-17] 一处印刷错误@朗文英汉双解词典[1998-2005] ](https://mp.weixin.qq.com/s/N6LxF68kSOZlUp_nyKJgig)  
 [☞ [2017-02-21] 谈谈：朗文多功能英汉双解词典 ](http://mp.weixin.qq.com/s/YGWWplSmX1VyO0hloIaMxA)  
 [☞ [2017-03-06] 有道、海笛朗文五双解的 3 个奇葩错误 ](http://mp.weixin.qq.com/s/fSwFGe8GAlV5wWFifX1ILA)  
-
-
+[☞ [2017-08-29] bicycle 条配图@朗文双解 ](http://mp.weixin.qq.com/s/8acEmIHhb8k8QuveM0RQ6Q)  
 
 
 ## 韦氏高阶英汉双解词典  
@@ -183,8 +193,6 @@
 [☞ [2017-10-15] obscure titles@韦氏高阶英汉双解词典 ](http://mp.weixin.qq.com/s/NmGbGxNtH0m12zcq6wGasA)  
 
 
-
-
 ## 柯林斯 COBUILD 高阶英汉双解学习词典  
 [☞ [2018-01-23] 柯林斯词典名字里的COBUILD是什么意思？ ](http://mp.weixin.qq.com/s/8Rvhxlzp6UJolcK4txeEuQ)  
 [☞ [2018-01-04] 柯林斯，说你呢 ](http://mp.weixin.qq.com/s/LfrmMPkNUv_8k83w5bXKwQ)  
@@ -206,7 +214,6 @@
 [☞ [2017-02-26] 词根词缀专栏[101-150]@柯林斯COBUILD高阶英汉双解学习词典（第8版） ](http://mp.weixin.qq.com/s/1_CnQ-3WkKUZaloUEiJ6aA)  
 [☞ [2017-02-25] 词根词缀专栏[51-100]@柯林斯COBUILD高阶英汉双解学习词典（第8版）](http://mp.weixin.qq.com/s/VzjR4fgJawGTi-Qm12pXhg)  
 [☞ [2017-02-24] 词根词缀专栏[1-50]@柯林斯COBUILD高阶英汉双解学习词典（第8版）](http://mp.weixin.qq.com/s/yeA3mqTNWgfeaGrak8NW6Q)  
-
 
 
 ## 新世纪英汉大词典  
@@ -234,7 +241,6 @@
 [☞ [2017-01-12] mystery 条《新世纪英汉大词典》的一个错译 ](http://mp.weixin.qq.com/s/vOIvfC_CvBH40vKwffTxxQ)  
 
 
-
 ## 英汉大词典  
 [☞ [2017-10-31] 英汉大词典参考 WBD 几例 ](http://mp.weixin.qq.com/s/vE6qMkky0qkINJyXT7ziCg)  
 [☞ [2016-12-25] 典评：英汉大词典[1] ](https://mp.weixin.qq.com/s/9oEzzd1y0k4CNSIspqUTvg)  
@@ -242,8 +248,8 @@
 [☞ [2017-07-19] the the @英汉大词典（第 2 版） ](http://mp.weixin.qq.com/s/DX7Rp9Lq3He7SEFHGiB-7Q)  
 
 
-
 ## 汉语词典  
+[☞ [2018-02-03] 《现代汉语词典》历版词条增删改 ](http://mp.weixin.qq.com/s/riuNVu_MRhLGL3NQjhKYKg)  
 [☞ [2018-01-17] 《现代汉语词典》“蓝牙”条目的改动 ](https://mp.weixin.qq.com/s/LpfanNTiAqSMhUeVahye7A)  
 [☞ [2016-12-16] [文字版]《现代汉语词典》（第 7 版）增、改前 10 条 ](https://mp.weixin.qq.com/s/KHZPQgxzzTC2nIHGLHx1Dg)  
 [☞ [2017-03-31] 《现代汉语规范词典》 vs 《现代汉语词典》](http://mp.weixin.qq.com/s/NIYwbQeB1u7jp7vK-aal5Q)  
@@ -257,14 +263,12 @@
 [☞ [2017-07-31] 新华字典 app 的一处瑕疵 ](http://mp.weixin.qq.com/s/R2QWEdK3ebDG0QMZkoP-dA)  
 
 
-
 ## 汉英词典  
 [☞ [2017-12-12] 宅男@新世纪汉英大词典（第二版） etc. ](http://mp.weixin.qq.com/s/V5p_HpH2oKnUlahLwyJ9Ug)  
 [☞ [2017-12-10] 新世纪汉英大词典 OR 辞典？@搜狗词典 app ](http://mp.weixin.qq.com/s/ieIQ6lgcp6mzKAStm8uV6g)  
 [☞ [2016-12-23] 三分钟怼个《中华汉英大词典》（上） mdx [仅 1 词条] ](https://mp.weixin.qq.com/s/1v6keF0Nr7tgadM1C69sGg)  
 [☞ [2017-02-06] 吴光华汉英大词典 ](http://mp.weixin.qq.com/s/9KmRN5krsTgcRyQMd39uRg)  
 [☞ [2017-04-01] 吴光华《汉英大词典》（第 3 版）里的 4 个错误](http://mp.weixin.qq.com/s/FQxXidGOXViTlP_e0wS_3A)  
-
 
 
 ## GoldenDict  
@@ -280,10 +284,12 @@
 [☞ [2017-12-03] “馄钝”是什么鬼？ ](https://mp.weixin.qq.com/s/WTBG3Dr6UTBQqC27Ki0zKw)  
 [☞ [2017-08-19] 中国数字植物标本馆？ ](http://mp.weixin.qq.com/s/4hDedXgld19CpIME4m5Prw)  
 [☞ [2017-09-27] 亲情打造？@纯洁心灵·逐梦演艺圈 ](http://mp.weixin.qq.com/s/bAeJpWpMKDLn10JopmHD0g)  
-
+[☞ [2018-02-02] 消失的汉字@某、某、某、某词典 app ](https://mp.weixin.qq.com/s/8VaT7NQXkcybTAUqhGu_uA)  
+[☞ [2017-03-05] 揭秘：必应、有道、金山、沪江等收录的版权词典 ](http://mp.weixin.qq.com/s/nfT9Qg2Cq8GxYuMbliujBA)  
 
 
 ## 未分类  
+[☞ [2018-01-28] sign in 和 sign up 有什么区别？ ](http://mp.weixin.qq.com/s/faYHP17ZvoiRiDtE1bDFeg)  
 [☞ [2018-01-26] 惯用语和惯用法有什么区别？ ](http://mp.weixin.qq.com/s/2wFyqyRKLHAfJE6DemIlug)  
 [☞ [2018-01-24] 积极词汇与消极词汇 ](http://mp.weixin.qq.com/s/16Cq3s1ROhRYs880FQLBEQ)  
 [☞ [2017-12-29] 铸剑为犁 ](http://mp.weixin.qq.com/s/vJ6GWduRdZdKvfNXCnuspA)  
@@ -333,7 +339,6 @@
 [☞ [2017-09-09] 连接、连结、联接、联结 ](http://mp.weixin.qq.com/s/udSsyJS1wXZHQLjqcnNrfw)  
 [☞ [2017-09-05] 一些符号的英文读法 ](https://mp.weixin.qq.com/s/DmbWKgQoXAHrRiqDtxqPHg)  
 [☞ [2017-09-01] “摆上货架” 与 on / off the shelf? ](http://mp.weixin.qq.com/s/3vSP1GKyc1GT6lhPjFFiVA)  
-[☞ [2017-08-29] bicycle 条配图@朗文双解 ](http://mp.weixin.qq.com/s/8acEmIHhb8k8QuveM0RQ6Q)  
 [☞ [2017-08-26] 词典里的“保温杯” ](http://mp.weixin.qq.com/s/vfvPSK6TsfFqg8I0nnsK_w)  
 [☞ [2017-08-25] 补昨天的摩拜图&... ](http://mp.weixin.qq.com/s/HNW89L8zurbBQ7w6SZIqDw)  
 [☞ [2017-08-24] 十二岁以上的儿童？ ](http://mp.weixin.qq.com/s/-ogk47zFGETlKFBtRLXrow)  
@@ -458,7 +463,6 @@
 [☞ [2017-03-12]感觉、心理过程、思维…… ](http://mp.weixin.qq.com/s/GhW00bZC_AKg9aSvVR30JA)  
 [☞ [2017-03-11] “账单” & “帐单”@剑桥高阶英汉双解词典 ](http://mp.weixin.qq.com/s/P2UzOGrpwWAAfYHmXdb65A)  
 [☞ [2017-03-10] 谁是足坛第一豪门@英语词典？ ](http://mp.weixin.qq.com/s/UIbYocYdz0fpfprX0PGqEg)  
-[☞ [2017-03-05] 揭秘：必应、有道、金山、沪江等收录的版权词典 ](http://mp.weixin.qq.com/s/nfT9Qg2Cq8GxYuMbliujBA)  
 [☞ [2017-02-22] 瑞雪兆丰年 ](http://mp.weixin.qq.com/s/nmudZUf47OiKHJgSbB4QVA)  
 [☞ [2017-02-20] 绝版好书：Merriam-Webster Dictionary of Synonyms ](http://mp.weixin.qq.com/s/HHotYW44Qvyc9rQIgez0PA)  
 [☞ [2017-02-18] Mac 不是 PC? ](http://mp.weixin.qq.com/s/Jji0Wl5CcyceQAy_kt1y3g)  
@@ -498,7 +502,6 @@
 [☞ [2016-12-15] “蓝瘦，香菇”在词典里怎么讲？  ](https://mp.weixin.qq.com/s/KOc3y9Z8n3wxJYfbHO1vgg)  
 [☞ [2016-12-14] 爱惜羽毛与 a feather in your cap ](https://mp.weixin.qq.com/s/w_Ueuu2jnlmoRPnnDba7Jg)  
 
-
-您都看到这里了，不关注一发，点个赞？
+您都看到这里了，不关注一发，点个赞？  
 
 -EOF-  
