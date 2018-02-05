@@ -4,7 +4,7 @@
 ## 历史文章
 ► 打开浏览器，输入 ducidian.com 即可进入本微信号的知识库。  
 ► 也可以访问简书，搜索“词典”，名字叫 Dictionaryphile 的就是我。因为我写文用 Markdown ，折腾来折腾去，发现简书还不错，所以整理了一些合集在那里放着。  
-► GitHub、微博、豆瓣等也叫 Dictionaryphile。
+► GitHub、微博等也叫 Dictionaryphile。
 
 ## 本微信订阅号介绍
 - 目前这是“一个”“人”维护的公众号  
