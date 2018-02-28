@@ -1,10 +1,10 @@
 # 自我介绍&全部文章
 
-本文最后更新：2018-02-10。  
+本文最后更新：2018-02-28。  
 
 ## 历史文章
 ► 打开浏览器，输入 ducidian.com 即可进入本微信号的知识库。  
-► GitHub、微博等也叫 Dictionaryphile。
+► GitHub、知乎、B 站、微博等也叫 Dictionaryphile。
 
 ## 本微信订阅号介绍
 - 目前这是“一个”“人”维护的公众号  
@@ -44,6 +44,8 @@
 - 其实不管学什么，最终都是把自己变成一本相关领域的活词典，仅此而已。
 - 一切问题，都是语言和逻辑的问题，当然，还可能是，钱的问题。
 - Once you’ve read the dictionary, every other book is just a remix.
+
+
 
 ## 显摆  
 [☞ [2017-05-28] 集齐 8 个版本的《牛津高阶英汉双解词典》 ](http://mp.weixin.qq.com/s/M8mwfCKP9uJS2s7kDvSk3g)  
@@ -136,9 +138,12 @@
 [☞ [2017-05-22] 语言@牛津高阶英汉双解词典（第 8 版） ](http://mp.weixin.qq.com/s/387oVdA1QQMsw8CIifJrig)  
 [☞ [2018-02-06] financial 条一个例句翻译@牛津高阶英汉双解词典 ](http://mp.weixin.qq.com/s/rdGI0lj0Eg9x1PxAX8Nwqw)  
 [☞ [2018-02-08] game-changer @牛津高阶 & 必应词典 ](http://mp.weixin.qq.com/s/IZjTaKJKB4IXTBRRmNaUMw)  
+[☞ [2018-02-21] 牛津高阶里最长的单词是哪个？ ](http://mp.weixin.qq.com/s/TEiDlUFcHeICABnkrxV4kA)  
 
 
 ## 朗文当代高级英语辞典（英英·英汉双解）  
+[☞ [2018-02-13] 地震@朗文当代高级英语辞典（英英·英汉双解） ](https://mp.weixin.qq.com/s/uRrtFjsi5rWfSEo5QG2VvQ)  
+[☞ [2018-02-12] 朗文 5 双解一处大 bug？ ](http://mp.weixin.qq.com/s/HjIWvUhB2zG2uBGIyQxKlw)  
 [☞ [2018-02-07] 朗文的一个例句有“病”？ ](https://mp.weixin.qq.com/s/MkF2Dx7Tpt40N2s0m6Lpsg)  
 [☞ [2018-02-05] 朗文当代和朗文高阶的区别 ](https://mp.weixin.qq.com/s/Vq3OyGf8WubZB86mbvaKfQ)  
 [☞ [2018-02-01] 朗文简体双解 app 里的一个纸版没有的繁（异）体字 ](http://mp.weixin.qq.com/s/TXaFVWnHOpd7QCPgrnLFWw)  
@@ -281,6 +286,8 @@
 
 
 ## 日常吐槽  
+[☞ [2018-02-20] keyboarder 与键盘侠 ](http://mp.weixin.qq.com/s/Q115vXs_MTm0RaV4XO-DlA)  
+[☞ [2018-02-11] “帐号”还是“账号”后续 ](http://mp.weixin.qq.com/s/mJ4TMNmNaYpkEJYxket24w)  
 [☞ [2018-02-09] 我的简书[帐|账][号|户]被冻结了 ](http://mp.weixin.qq.com/s/NAOclzwmaMeP-JVpMEFeDA)  
 [☞ [2018-01-07] PG One 是什么意思？ ](http://mp.weixin.qq.com/s/blGKwurrIfxyXBhpe4My_A)  
 [☞ [2018-01-06] 有道词典的不专业性 ](http://mp.weixin.qq.com/s/mh9ev1BtNnMfPx7h4tqyoA)  
@@ -293,6 +300,19 @@
 
 
 ## 未分类
+[☞ [2018-02-28] 报销与报效与爆笑 ](https://mp.weixin.qq.com/s/e1VQ8e1kSxAK-YcUfKBqZQ)  
+[☞ [2018-02-27] 账款与帐款 ](http://mp.weixin.qq.com/s/CM_YQed1Jp_FzAWPHetQLQ)  
+[☞ [2018-02-26] 从 fluid ounce 看必应词典 ](http://mp.weixin.qq.com/s/D_s-5UP6yd9NCiLRCxI6cg)  
+[☞ [2018-02-25] 何谓照相式记忆 ](http://mp.weixin.qq.com/s/ez0eRGtIEchYVaz1Hks5UA)  
+[☞ [2018-02-24] 新牛津与牛津高阶的区别 ](http://mp.weixin.qq.com/s/Rtyi68AyqmDyMcbANbUQsg)  
+[☞ [2018-02-23] 心里美滋滋的 ](https://mp.weixin.qq.com/s/YKBgMSNw5uZIZxlilAHuAA)  
+[☞ [2018-02-22] “说得轻巧”与 speakeasy ](http://mp.weixin.qq.com/s/sJj8apiAyVZfOg7F5L_UNA)  
+[☞ [2018-02-19] 一个有关 NBA 的例句@《汉英词典》（第三版） ](http://mp.weixin.qq.com/s/NheA71dRnfoiMQYNlfOzmQ)  
+[☞ [2018-02-18] 每逢佳节胖三斤英语怎么说？ ](http://mp.weixin.qq.com/s/ryhKcm2LqH1sy21DcgukPw)  
+[☞ [2018-02-17] “大年初二”用英语怎么说？ ](http://mp.weixin.qq.com/s/PpxqqGbFNDJ6LqZYU6xwBw)  
+[☞ [2018-02-16] 词典里的春节 ](https://mp.weixin.qq.com/s/R9gUYsJ5kFvoSz6lXs7wIw)  
+[☞ [2018-02-15] 词典里的除夕 ](https://mp.weixin.qq.com/s/Z9rsBGIUgjsIZ2PWL36YEQ)  
+[☞ [2018-02-14] at the beach 对不对？ ](http://mp.weixin.qq.com/s/utbnTiMvL1pJypRFfPR3HQ)  
 [☞ [2018-02-10] a child's toy 还是 a children's toy? ](https://mp.weixin.qq.com/s/ZY50A4kUu7zcpdDOb9EbQQ)  
 [☞ [2018-01-28] sign in 和 sign up 有什么区别？ ](http://mp.weixin.qq.com/s/faYHP17ZvoiRiDtE1bDFeg)  
 [☞ [2018-01-26] 惯用语和惯用法有什么区别？ ](http://mp.weixin.qq.com/s/2wFyqyRKLHAfJE6DemIlug)  
@@ -507,6 +527,7 @@
 [☞ [2016-12-15] “蓝瘦，香菇”在词典里怎么讲？  ](https://mp.weixin.qq.com/s/KOc3y9Z8n3wxJYfbHO1vgg)  
 [☞ [2016-12-14] 爱惜羽毛与 a feather in your cap ](https://mp.weixin.qq.com/s/w_Ueuu2jnlmoRPnnDba7Jg)  
 
-您都看到这里了，不关注一发，点个赞？  
+您都看到这里了，不点个赞？  
 
 -EOF-  
+
